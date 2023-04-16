@@ -5,7 +5,7 @@ The dashboard is created using Power BI and includes various graphs, tables, and
 # Data Sources
 The data used in this dashboard is sourced from World Health Organization and the Our World in Data team. The data is organized in a format that enables users to filter and analyze the data based on country, region, and time period
 
-#Dashboard Components
+# Dashboard Components
 The COVID-19 dashboard is comprised of several components, including:
 
 Worldwide Cases-Deaths: This section includes graphs and tables that display the total number of confirmed COVID-19 cases and deaths around the world. Users can view the data on a daily, monthlly, or yearly basis.
@@ -23,5 +23,5 @@ Vaccination: This section displays the number of COVID-19 vaccine doses administ
 Continent&Country Cases-Deaths: This section includes graphs and tables that display the total number of confirmed COVID-19 cases and deaths by continents and countries. Users can view the data on a daily, monthly, or yearly basis. 
 
 
-#Conclusion
+# Conclusion
 This COVID-19 dashboard provides a comprehensive view of the global COVID-19 situation, including the number of cases and deaths, ICU bed availability, testing rates, and vaccination rates. The dashboard is designed to be user-friendly and enables users to analyze the data based on their specific needs.
