@@ -24,4 +24,4 @@ Continent&Country Cases-Deaths: This section includes graphs and tables that dis
 
 
 # Conclusion
-This COVID-19 dashboard provides a comprehensive view of the global COVID-19 situation, including the number of cases and deaths, ICU bed availability, testing rates, and vaccination rates. The dashboard is designed to be user-friendly and enables users to analyze the data based on their specific needs.
+This COVID-19 dashboard provides a comprehensive view of the global COVID-19 situation, including the number of cases and deaths, intensive care, testing, and vaccination counts. The dashboard is designed to be user-friendly and enables users to analyze the data based on their specific needs.
